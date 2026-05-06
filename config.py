@@ -27,7 +27,7 @@ RUN_TIMEOUT_SEC = 1800
 
 # ─────────── GitHub Pages（Dashboard 部署） ───────────
 GITHUB_TOKEN  = os.environ.get('GITHUB_TOKEN', '')
-GITHUB_REPO   = os.environ.get('GITHUB_REPO', 'znxuyz/stock_bot_share')
+GITHUB_REPO   = os.environ.get('GITHUB_REPO', '')   # 必填，例如 'your-name/your-repo'
 GITHUB_BRANCH = os.environ.get('GITHUB_BRANCH', 'main')
 GITHUB_API    = 'https://api.github.com'
 
@@ -49,9 +49,10 @@ TWSE_VERIFY_SSL = os.environ.get('TWSE_VERIFY_SSL', '0').lower() in ('1', 'true'
 T86_CACHE_TTL_SEC          = 1800   # T86 快取 30 分鐘
 KBAR_CACHE_TTL_CURRENT_SEC = 86400         # 當月 K 棒快取 1 天
 KBAR_CACHE_TTL_HISTORY_SEC = 86400 * 30    # 歷史月 K 棒快取 30 天
-TWSE_CALL_INTERVAL_SEC     = 0.8    # TWSE 呼叫間隔（避免限速）
+TWSE_CALL_INTERVAL_SEC     = 1.5    # TWSE 呼叫間隔（避免限速；雲端 IP 建議 ≥ 1.5）
 RATE_LIMIT_THRESHOLD       = 3      # 連續 N 檔抓不到 → 退避
-RATE_LIMIT_BACKOFF_SEC     = 60     # 退避 60 秒讓 TWSE 恢復
+RATE_LIMIT_BACKOFF_SEC     = 180    # 退避秒數（短於 3 分鐘 TWSE 通常還沒恢復）
+MAX_BACKOFFS               = 2      # 累積退避超過此次數仍失敗 → 直接中止本次分析（避免空跑 10 分鐘）
 
 STOCK_API_CACHE_TTL_SEC = 900       # /api/stock 個股查詢快取 15 分鐘
 
