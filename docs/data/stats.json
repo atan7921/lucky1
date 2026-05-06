@@ -1,0 +1,33 @@
+{
+  "updated_at": "2026-05-06 22:15:25",
+  "summary": {
+    "total": 0,
+    "filled": null,
+    "missed": null,
+    "pending": null,
+    "settled1": null,
+    "win1": null,
+    "avg_ret1": null,
+    "settled2": null,
+    "win2": null,
+    "avg_ret2": null,
+    "best_ret1": null,
+    "worst_ret1": null
+  },
+  "by_grade": [],
+  "by_bias": [],
+  "by_month": [],
+  "timeline": {
+    "w1": [],
+    "w2": []
+  },
+  "missed_hypo": {
+    "total": 0,
+    "win": 0,
+    "win_rate": null,
+    "avg_ret": null,
+    "best": null,
+    "worst": null,
+    "by_grade": []
+  }
+}
