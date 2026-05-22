@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-05-22 17:08:22",
+  "updated_at": "2026-05-22 18:03:37",
   "summary": {
     "total": 122,
     "filled": 104,
     "missed": 9,
     "pending": 9,
-    "settled1": 66,
-    "win1": 18,
-    "avg_ret1": -1.1637878787878788,
-    "settled2": 20,
-    "win2": 8,
-    "avg_ret2": 1.554,
+    "settled1": 104,
+    "win1": 42,
+    "avg_ret1": 0.31125,
+    "settled2": 66,
+    "win2": 22,
+    "avg_ret2": 1.3504545454545456,
     "best_ret1": 21.43,
     "worst_ret1": -5.01
   },
@@ -21,14 +21,14 @@
       "filled": 9,
       "missed": 0,
       "pending": 1,
-      "settled1": 3,
-      "settled2": 1,
-      "win1": 1,
-      "win2": 0,
-      "avg_ret1": -1.0866666666666667,
-      "avg_ret2": -5.0,
-      "hit_t1": 2,
-      "hit_t2": 2,
+      "settled1": 9,
+      "settled2": 3,
+      "win1": 6,
+      "win2": 1,
+      "avg_ret1": 2.878888888888889,
+      "avg_ret2": 2.8266666666666667,
+      "hit_t1": 6,
+      "hit_t2": 3,
       "hit_sl": 1
     },
     {
@@ -37,15 +37,15 @@
       "filled": 48,
       "missed": 3,
       "pending": 3,
-      "settled1": 29,
-      "settled2": 10,
-      "win1": 5,
-      "win2": 4,
-      "avg_ret1": -2.0724137931034483,
-      "avg_ret2": 3.559,
-      "hit_t1": 10,
-      "hit_t2": 5,
-      "hit_sl": 12
+      "settled1": 48,
+      "settled2": 29,
+      "win1": 17,
+      "win2": 9,
+      "avg_ret1": -0.26104166666666667,
+      "avg_ret2": 0.029310344827586206,
+      "hit_t1": 25,
+      "hit_t2": 15,
+      "hit_sl": 18
     },
     {
       "grade": "A",
@@ -53,15 +53,15 @@
       "filled": 46,
       "missed": 5,
       "pending": 5,
-      "settled1": 34,
-      "settled2": 9,
-      "win1": 12,
-      "win2": 4,
-      "avg_ret1": -0.39558823529411763,
-      "avg_ret2": 0.05444444444444444,
-      "hit_t1": 18,
-      "hit_t2": 12,
-      "hit_sl": 19
+      "settled1": 46,
+      "settled2": 34,
+      "win1": 19,
+      "win2": 12,
+      "avg_ret1": 0.5215217391304348,
+      "avg_ret2": 2.347058823529412,
+      "hit_t1": 30,
+      "hit_t2": 23,
+      "hit_sl": 27
     },
     {
       "grade": "CHASE",
@@ -69,54 +69,54 @@
       "filled": 1,
       "missed": 1,
       "pending": 0,
-      "settled1": 0,
+      "settled1": 1,
       "settled2": 0,
       "win1": 0,
       "win2": 0,
-      "avg_ret1": null,
+      "avg_ret1": -5.0,
       "avg_ret2": null,
-      "hit_t1": 0,
-      "hit_t2": 0,
-      "hit_sl": 0
+      "hit_t1": 1,
+      "hit_t2": 1,
+      "hit_sl": 1
     }
   ],
   "by_bias": [
     {
       "bias_zone": "底部(<0%)",
       "total": 1,
-      "settled": 0,
-      "win": 0,
-      "avg_ret": null
+      "settled": 1,
+      "win": 1,
+      "avg_ret": 0.91
     },
     {
       "bias_zone": "理想(0-5%)",
       "total": 42,
-      "settled": 18,
-      "win": 3,
-      "avg_ret": -1.876111111111111
+      "settled": 39,
+      "win": 17,
+      "avg_ret": 1.0138461538461538
     },
     {
       "bias_zone": "略高(5-8%)",
       "total": 24,
-      "settled": 10,
-      "win": 3,
-      "avg_ret": -1.843
+      "settled": 19,
+      "win": 10,
+      "avg_ret": 1.3931578947368422
     },
     {
       "bias_zone": "過高(>8%)",
       "total": 55,
-      "settled": 38,
-      "win": 12,
-      "avg_ret": -0.6476315789473684
+      "settled": 45,
+      "win": 14,
+      "avg_ret": -0.7677777777777778
     }
   ],
   "by_month": [
     {
       "ym": "2026-05",
       "total": 122,
-      "settled": 66,
-      "win": 18,
-      "avg_ret": -1.1637878787878788
+      "settled": 104,
+      "win": 42,
+      "avg_ret": 0.31125
     }
   ],
   "timeline": {
@@ -134,6 +134,13 @@
         "total": 46,
         "wins": 13,
         "avg_ret": -1.2221739130434783
+      },
+      {
+        "series": "w1",
+        "sdate": "2026-05-22",
+        "total": 38,
+        "wins": 24,
+        "avg_ret": 2.873157894736842
       }
     ],
     "w2": [
@@ -143,17 +150,31 @@
         "total": 20,
         "wins": 8,
         "avg_ret": 1.554
+      },
+      {
+        "series": "w2",
+        "sdate": "2026-05-22",
+        "total": 46,
+        "wins": 14,
+        "avg_ret": 1.2619565217391304
       }
     ]
   },
   "missed_hypo": {
-    "total": 5,
-    "win": 2,
-    "win_rate": 40.0,
-    "avg_ret": -3.73,
-    "best": 0.9,
+    "total": 8,
+    "win": 5,
+    "win_rate": 62.5,
+    "avg_ret": -0.1125,
+    "best": 12.45,
     "worst": -9.76,
     "by_grade": [
+      {
+        "grade": "S",
+        "total": 3,
+        "win": 3,
+        "win_rate": 100.0,
+        "avg_ret": 5.916666666666667
+      },
       {
         "grade": "A",
         "total": 4,
