@@ -1,168 +1,168 @@
 {
-  "updated_at": "2026-05-22 17:08:21",
-  "screen_date": "20260522",
+  "updated_at": "2026-05-25 17:09:41",
+  "screen_date": "20260525",
   "buyers": [
-    {
-      "sid": "6770",
-      "name": "力積電",
-      "foreign": 96770994,
-      "trust": 588000,
-      "close": 63.8,
-      "change_pct": 7.95
-    },
     {
       "sid": "2344",
       "name": "華邦電",
-      "foreign": 51442004,
-      "trust": -1151031,
+      "foreign": 72092008,
+      "trust": 5251000,
+      "close": 128.5,
+      "change_pct": 2.8
+    },
+    {
+      "sid": "6770",
+      "name": "力積電",
+      "foreign": 70137018,
+      "trust": 27000,
+      "close": 67.6,
+      "change_pct": 5.96
+    },
+    {
+      "sid": "2324",
+      "name": "仁寶",
+      "foreign": 57814613,
+      "trust": -30324000,
+      "close": 34.65,
+      "change_pct": 10.0
+    },
+    {
+      "sid": "2317",
+      "name": "鴻海",
+      "foreign": 52052205,
+      "trust": 1212000,
+      "close": 261.0,
+      "change_pct": 4.4
+    },
+    {
+      "sid": "2303",
+      "name": "聯電",
+      "foreign": 48519878,
+      "trust": -21406000,
       "close": 125.0,
       "change_pct": 9.65
     },
     {
       "sid": "1802",
       "name": "台玻",
-      "foreign": 36032532,
+      "foreign": 43212609,
       "trust": 11000,
-      "close": 70.5,
-      "change_pct": 8.29
-    },
-    {
-      "sid": "3231",
-      "name": "緯創",
-      "foreign": 32967540,
-      "trust": -201284,
-      "close": 144.5,
-      "change_pct": 3.21
-    },
-    {
-      "sid": "2313",
-      "name": "華通",
-      "foreign": 29085348,
-      "trust": 123000,
-      "close": 278.0,
-      "change_pct": 7.75
-    },
-    {
-      "sid": "2409",
-      "name": "友達",
-      "foreign": 28252534,
-      "trust": -21237,
-      "close": 22.2,
-      "change_pct": 9.9
-    },
-    {
-      "sid": "2882",
-      "name": "國泰金",
-      "foreign": 27782473,
-      "trust": -22121936,
-      "close": 79.7,
-      "change_pct": 1.27
-    },
-    {
-      "sid": "6116",
-      "name": "彩晶",
-      "foreign": 24560767,
-      "trust": 0,
-      "close": 11.85,
-      "change_pct": 9.72
-    },
-    {
-      "sid": "1717",
-      "name": "長興",
-      "foreign": 23653936,
-      "trust": 540000,
-      "close": 83.0,
-      "change_pct": 4.14
-    },
-    {
-      "sid": "2367",
-      "name": "燿華",
-      "foreign": 22863080,
-      "trust": 0,
-      "close": 66.8,
-      "change_pct": 4.21
-    }
-  ],
-  "sellers": [
-    {
-      "sid": "2892",
-      "name": "第一金",
-      "foreign": -69439278,
-      "trust": 2461676,
-      "close": 27.55,
-      "change_pct": -0.54
-    },
-    {
-      "sid": "2303",
-      "name": "聯電",
-      "foreign": -30346308,
-      "trust": -24878151,
-      "close": 114.0,
-      "change_pct": -1.72
-    },
-    {
-      "sid": "2887",
-      "name": "台新新光金",
-      "foreign": -28739056,
-      "trust": 29626593,
-      "close": 23.8,
-      "change_pct": -0.21
-    },
-    {
-      "sid": "2890",
-      "name": "永豐金",
-      "foreign": -21852748,
-      "trust": -70584,
-      "close": 29.1,
-      "change_pct": -2.02
-    },
-    {
-      "sid": "8150",
-      "name": "南茂",
-      "foreign": -17099724,
-      "trust": -6000,
-      "close": 79.1,
-      "change_pct": 4.22
+      "close": 73.9,
+      "change_pct": 4.82
     },
     {
       "sid": "2002",
       "name": "中鋼",
-      "foreign": -14672413,
-      "trust": -62000,
-      "close": 18.15,
-      "change_pct": -0.27
+      "foreign": 25870154,
+      "trust": 0,
+      "close": 19.95,
+      "change_pct": 9.92
     },
     {
-      "sid": "1303",
-      "name": "南亞",
-      "foreign": -13197203,
-      "trust": -18299,
-      "close": 86.7,
-      "change_pct": -0.69
+      "sid": "2882",
+      "name": "國泰金",
+      "foreign": 21264433,
+      "trust": -15598000,
+      "close": 81.5,
+      "change_pct": 2.26
+    },
+    {
+      "sid": "2881",
+      "name": "富邦金",
+      "foreign": 19599135,
+      "trust": -12757000,
+      "close": 97.7,
+      "change_pct": 2.73
+    },
+    {
+      "sid": "2409",
+      "name": "友達",
+      "foreign": 17861887,
+      "trust": 0,
+      "close": 24.4,
+      "change_pct": 9.91
+    }
+  ],
+  "sellers": [
+    {
+      "sid": "2887",
+      "name": "台新新光金",
+      "foreign": -51063595,
+      "trust": 23308400,
+      "close": 23.3,
+      "change_pct": -2.1
+    },
+    {
+      "sid": "2892",
+      "name": "第一金",
+      "foreign": -46851794,
+      "trust": 4341400,
+      "close": 27.6,
+      "change_pct": 0.18
     },
     {
       "sid": "2880",
       "name": "華南金",
-      "foreign": -12352783,
-      "trust": 8433000,
-      "close": 31.95,
-      "change_pct": -0.31
+      "foreign": -26168910,
+      "trust": 10066000,
+      "close": 30.55,
+      "change_pct": -4.38
     },
     {
-      "sid": "1216",
-      "name": "統一",
-      "foreign": -12079389,
-      "trust": 5475493,
-      "close": 71.5,
-      "change_pct": -2.19
+      "sid": "2382",
+      "name": "廣達",
+      "foreign": -19827857,
+      "trust": 10192000,
+      "close": 316.5,
+      "change_pct": 0.16
     },
     {
-      "sid": "2610",
-      "name": "華航",
-      "foreign": -12052483,
-      "trust": -694427,
-      "close": 18.55,
-      "change_pct": -0.8
+      "sid": "2883",
+      "name": "凱基金",
+      "foreign": -19478990,
+      "trust": -443000,
+      "close": 21.65,
+      "change_pct": -0.23
+    },
+    {
+      "sid": "3714",
+      "name": "富采",
+      "foreign": -18951813,
+      "trust": 0,
+      "close": 79.7,
+      "change_pct": -2.09
+    },
+    {
+      "sid": "1102",
+      "name": "亞泥",
+      "foreign": -18189472,
+      "trust": -533161,
+      "close": 33.6,
+      "change_pct": -2.33
+    },
+    {
+      "sid": "2801",
+      "name": "彰銀",
+      "foreign": -18038824,
+      "trust": 0,
+      "close": 20.2,
+      "change_pct": -0.49
+    },
+    {
+      "sid": "2884",
+      "name": "玉山金",
+      "foreign": -17643266,
+      "trust": -12335000,
+      "close": 30.9,
+      "change_pct": -1.28
+    },
+    {
+      "sid": "2618",
+      "name": "長榮航",
+      "foreign": -17135700,
+      "trust": 9265670,
+      "close": 35.45,
+      "change_pct": -0.14
     }
   ]
 }
