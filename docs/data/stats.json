@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-28 17:10:31",
+  "updated_at": "2026-05-29 17:10:50",
   "summary": {
-    "total": 162,
-    "filled": 132,
-    "missed": 20,
+    "total": 172,
+    "filled": 140,
+    "missed": 22,
     "pending": 10,
     "settled1": 104,
     "win1": 42,
@@ -18,9 +18,9 @@
     {
       "grade": "SS",
       "total": 12,
-      "filled": 10,
+      "filled": 11,
       "missed": 1,
-      "pending": 1,
+      "pending": 0,
       "settled1": 9,
       "settled2": 3,
       "win1": 6,
@@ -33,10 +33,10 @@
     },
     {
       "grade": "S",
-      "total": 69,
-      "filled": 61,
+      "total": 73,
+      "filled": 63,
       "missed": 6,
-      "pending": 2,
+      "pending": 4,
       "settled1": 48,
       "settled2": 29,
       "win1": 17,
@@ -49,10 +49,10 @@
     },
     {
       "grade": "A",
-      "total": 78,
-      "filled": 60,
-      "missed": 11,
-      "pending": 7,
+      "total": 84,
+      "filled": 65,
+      "missed": 13,
+      "pending": 6,
       "settled1": 46,
       "settled2": 34,
       "win1": 19,
@@ -90,21 +90,21 @@
     },
     {
       "bias_zone": "理想(0-5%)",
-      "total": 51,
+      "total": 52,
       "settled": 39,
       "win": 17,
       "avg_ret": 1.0138461538461538
     },
     {
       "bias_zone": "略高(5-8%)",
-      "total": 29,
+      "total": 30,
       "settled": 19,
       "win": 10,
       "avg_ret": 1.3931578947368422
     },
     {
       "bias_zone": "過高(>8%)",
-      "total": 80,
+      "total": 88,
       "settled": 45,
       "win": 14,
       "avg_ret": -0.7677777777777778
@@ -113,7 +113,7 @@
   "by_month": [
     {
       "ym": "2026-05",
-      "total": 162,
+      "total": 172,
       "settled": 104,
       "win": 42,
       "avg_ret": 0.31125
