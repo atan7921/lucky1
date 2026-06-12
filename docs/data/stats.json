@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-12 17:07:26",
+  "updated_at": "2026-06-12 18:02:42",
   "summary": {
     "total": 228,
     "filled": 193,
     "missed": 28,
     "pending": 7,
-    "settled1": 162,
-    "win1": 65,
-    "avg_ret1": 0.21574074074074073,
-    "settled2": 140,
-    "win2": 59,
-    "avg_ret2": 2.4165,
+    "settled1": 183,
+    "win1": 74,
+    "avg_ret1": 0.27907103825136614,
+    "settled2": 172,
+    "win2": 62,
+    "avg_ret2": 1.1580813953488371,
     "best_ret1": 29.18,
     "worst_ret1": -5.01
   },
@@ -22,14 +22,14 @@
       "missed": 1,
       "pending": 1,
       "settled1": 10,
-      "settled2": 11,
+      "settled2": 12,
       "win1": 7,
       "win2": 7,
       "avg_ret1": 2.813,
-      "avg_ret2": 6.108181818181818,
+      "avg_ret2": 5.1825,
       "hit_t1": 9,
       "hit_t2": 7,
-      "hit_sl": 2
+      "hit_sl": 3
     },
     {
       "grade": "S",
@@ -37,15 +37,15 @@
       "filled": 79,
       "missed": 9,
       "pending": 1,
-      "settled1": 70,
-      "settled2": 63,
-      "win1": 26,
-      "win2": 27,
-      "avg_ret1": 0.30742857142857144,
-      "avg_ret2": 2.005714285714286,
-      "hit_t1": 49,
-      "hit_t2": 31,
-      "hit_sl": 31
+      "settled1": 77,
+      "settled2": 72,
+      "win1": 30,
+      "win2": 30,
+      "avg_ret1": 0.7177922077922078,
+      "avg_ret2": 1.4215277777777777,
+      "hit_t1": 56,
+      "hit_t2": 36,
+      "hit_sl": 36
     },
     {
       "grade": "A",
@@ -53,15 +53,15 @@
       "filled": 101,
       "missed": 16,
       "pending": 5,
-      "settled1": 81,
-      "settled2": 65,
-      "win1": 32,
+      "settled1": 95,
+      "settled2": 87,
+      "win1": 37,
       "win2": 25,
-      "avg_ret1": -0.11975308641975309,
-      "avg_ret2": 2.304,
-      "hit_t1": 61,
-      "hit_t2": 43,
-      "hit_sl": 50
+      "avg_ret1": -0.28768421052631576,
+      "avg_ret2": 0.4557471264367816,
+      "hit_t1": 71,
+      "hit_t2": 48,
+      "hit_sl": 65
     },
     {
       "grade": "CHASE",
@@ -84,39 +84,39 @@
     {
       "bias_zone": "底部(<0%)",
       "total": 4,
-      "settled": 3,
+      "settled": 4,
       "win": 1,
-      "avg_ret": -2.216666666666667
+      "avg_ret": -2.915
     },
     {
       "bias_zone": "理想(0-5%)",
       "total": 64,
-      "settled": 50,
-      "win": 26,
-      "avg_ret": 1.7134
+      "settled": 55,
+      "win": 29,
+      "avg_ret": 2.1103636363636364
     },
     {
       "bias_zone": "略高(5-8%)",
       "total": 44,
-      "settled": 30,
-      "win": 15,
-      "avg_ret": 1.44
+      "settled": 37,
+      "win": 20,
+      "avg_ret": 1.5491891891891891
     },
     {
       "bias_zone": "過高(>8%)",
       "total": 116,
-      "settled": 79,
-      "win": 23,
-      "avg_ret": -1.1046835443037974
+      "settled": 87,
+      "win": 24,
+      "avg_ret": -1.2719540229885058
     }
   ],
   "by_month": [
     {
       "ym": "2026-06",
       "total": 56,
-      "settled": 17,
-      "win": 2,
-      "avg_ret": -4.124117647058823
+      "settled": 38,
+      "win": 11,
+      "avg_ret": -1.4207894736842106
     },
     {
       "ym": "2026-05",
@@ -162,6 +162,13 @@
         "total": 24,
         "wins": 6,
         "avg_ret": -3.1016666666666666
+      },
+      {
+        "series": "w1",
+        "sdate": "2026-06-12",
+        "total": 21,
+        "wins": 9,
+        "avg_ret": 0.7676190476190476
       }
     ],
     "w2": [
@@ -192,16 +199,23 @@
         "total": 35,
         "wins": 15,
         "avg_ret": 2.8954285714285715
+      },
+      {
+        "series": "w2",
+        "sdate": "2026-06-12",
+        "total": 32,
+        "wins": 3,
+        "avg_ret": -4.3475
       }
     ]
   },
   "missed_hypo": {
-    "total": 25,
+    "total": 27,
     "win": 18,
-    "win_rate": 72.0,
-    "avg_ret": 4.0856,
+    "win_rate": 66.7,
+    "avg_ret": 3.259259259259259,
     "best": 18.35,
-    "worst": -9.76,
+    "worst": -12.23,
     "by_grade": [
       {
         "grade": "SS",
@@ -212,17 +226,17 @@
       },
       {
         "grade": "S",
-        "total": 8,
+        "total": 9,
         "win": 8,
-        "win_rate": 100.0,
-        "avg_ret": 8.13125
+        "win_rate": 88.9,
+        "avg_ret": 7.015555555555555
       },
       {
         "grade": "A",
-        "total": 14,
+        "total": 15,
         "win": 8,
-        "win_rate": 57.1,
-        "avg_ret": 2.017142857142857
+        "win_rate": 53.3,
+        "avg_ret": 1.0673333333333332
       },
       {
         "grade": "CHASE",
