@@ -1,168 +1,168 @@
 {
-  "updated_at": "2026-06-12 17:07:25",
-  "screen_date": "20260612",
+  "updated_at": "2026-06-15 17:07:57",
+  "screen_date": "20260615",
   "buyers": [
     {
-      "sid": "2887",
-      "name": "台新新光金",
-      "foreign": 85214384,
-      "trust": 10101196,
-      "close": 30.2,
-      "change_pct": 5.04
-    },
-    {
-      "sid": "2610",
-      "name": "華航",
-      "foreign": 41602961,
-      "trust": 1248995,
-      "close": 20.4,
-      "change_pct": 4.88
-    },
-    {
-      "sid": "2891",
-      "name": "中信金",
-      "foreign": 40901104,
-      "trust": -29560082,
-      "close": 67.6,
-      "change_pct": 0.15
+      "sid": "2883",
+      "name": "凱基金",
+      "foreign": 30979634,
+      "trust": 2641000,
+      "close": 28.8,
+      "change_pct": 4.92
     },
     {
       "sid": "2618",
       "name": "長榮航",
-      "foreign": 37749153,
-      "trust": -5395942,
-      "close": 38.7,
-      "change_pct": 2.65
+      "foreign": 30474660,
+      "trust": -5922353,
+      "close": 39.95,
+      "change_pct": 3.23
     },
     {
-      "sid": "2344",
-      "name": "華邦電",
-      "foreign": 33574350,
-      "trust": 3179348,
-      "close": 172.0,
-      "change_pct": 9.9
-    },
-    {
-      "sid": "3576",
-      "name": "聯合再生",
-      "foreign": 30962798,
-      "trust": 0,
-      "close": 19.8,
-      "change_pct": 10.0
+      "sid": "2891",
+      "name": "中信金",
+      "foreign": 26697673,
+      "trust": -10852963,
+      "close": 70.1,
+      "change_pct": 3.7
     },
     {
       "sid": "2890",
       "name": "永豐金",
-      "foreign": 30857736,
-      "trust": -15556,
-      "close": 34.15,
-      "change_pct": 2.71
+      "foreign": 24604307,
+      "trust": -574806,
+      "close": 35.2,
+      "change_pct": 3.07
     },
     {
-      "sid": "2834",
-      "name": "臺企銀",
-      "foreign": 29746210,
-      "trust": -67959,
-      "close": 17.3,
-      "change_pct": 1.76
+      "sid": "2610",
+      "name": "華航",
+      "foreign": 21686099,
+      "trust": -187775,
+      "close": 21.4,
+      "change_pct": 4.9
     },
     {
       "sid": "2892",
       "name": "第一金",
-      "foreign": 28858853,
-      "trust": -29267,
-      "close": 31.0,
-      "change_pct": 1.14
+      "foreign": 17529632,
+      "trust": -2000,
+      "close": 31.3,
+      "change_pct": 0.97
     },
     {
-      "sid": "2002",
-      "name": "中鋼",
-      "foreign": 28337937,
-      "trust": 94665,
-      "close": 18.9,
-      "change_pct": 1.89
+      "sid": "2344",
+      "name": "華邦電",
+      "foreign": 16229044,
+      "trust": 4412000,
+      "close": 189.0,
+      "change_pct": 9.88
+    },
+    {
+      "sid": "3576",
+      "name": "聯合再生",
+      "foreign": 13477585,
+      "trust": 0,
+      "close": 21.0,
+      "change_pct": 6.06
+    },
+    {
+      "sid": "1303",
+      "name": "南亞",
+      "foreign": 12310454,
+      "trust": 880000,
+      "close": 117.0,
+      "change_pct": 9.86
+    },
+    {
+      "sid": "2882",
+      "name": "國泰金",
+      "foreign": 12274093,
+      "trust": -6401000,
+      "close": 104.0,
+      "change_pct": 3.48
     }
   ],
   "sellers": [
     {
-      "sid": "2409",
-      "name": "友達",
-      "foreign": -26060496,
-      "trust": -47402,
-      "close": 23.5,
-      "change_pct": 1.51
-    },
-    {
-      "sid": "2883",
-      "name": "凱基金",
-      "foreign": -25786495,
-      "trust": -4041295,
-      "close": 27.45,
-      "change_pct": -1.08
-    },
-    {
       "sid": "6770",
       "name": "力積電",
-      "foreign": -22792812,
-      "trust": 82000,
-      "close": 67.2,
-      "change_pct": 4.35
+      "foreign": -34064142,
+      "trust": 0,
+      "close": 73.3,
+      "change_pct": 9.08
     },
     {
-      "sid": "2324",
-      "name": "仁寶",
-      "foreign": -20369488,
-      "trust": -27000,
-      "close": 36.35,
-      "change_pct": 0.55
+      "sid": "2303",
+      "name": "聯電",
+      "foreign": -24057874,
+      "trust": 15859412,
+      "close": 141.5,
+      "change_pct": 5.99
+    },
+    {
+      "sid": "2609",
+      "name": "陽明",
+      "foreign": -21278798,
+      "trust": -29450,
+      "close": 51.2,
+      "change_pct": -2.29
+    },
+    {
+      "sid": "2301",
+      "name": "光寶科",
+      "foreign": -19376392,
+      "trust": -2909793,
+      "close": 207.5,
+      "change_pct": -4.38
     },
     {
       "sid": "2313",
       "name": "華通",
-      "foreign": -15375158,
-      "trust": -7000,
-      "close": 263.0,
-      "change_pct": -4.36
-    },
-    {
-      "sid": "1402",
-      "name": "遠東新",
-      "foreign": -15352265,
-      "trust": -28000,
-      "close": 27.0,
-      "change_pct": -1.46
-    },
-    {
-      "sid": "2881",
-      "name": "富邦金",
-      "foreign": -13606187,
-      "trust": 2826981,
-      "close": 122.0,
-      "change_pct": -2.79
-    },
-    {
-      "sid": "3042",
-      "name": "晶技",
-      "foreign": -11223082,
-      "trust": 778000,
-      "close": 224.5,
-      "change_pct": -4.47
+      "foreign": -15079868,
+      "trust": -1187000,
+      "close": 257.5,
+      "change_pct": -2.09
     },
     {
       "sid": "6239",
       "name": "力成",
-      "foreign": -10975507,
-      "trust": 261000,
-      "close": 347.5,
-      "change_pct": 4.35
+      "foreign": -14468781,
+      "trust": 1073203,
+      "close": 327.0,
+      "change_pct": -5.9
     },
     {
-      "sid": "2353",
-      "name": "宏碁",
-      "foreign": -9280270,
-      "trust": -108229,
-      "close": 36.7,
-      "change_pct": -0.54
+      "sid": "2409",
+      "name": "友達",
+      "foreign": -12857790,
+      "trust": 4025,
+      "close": 24.1,
+      "change_pct": 2.55
+    },
+    {
+      "sid": "8112",
+      "name": "至上",
+      "foreign": -11988758,
+      "trust": -280000,
+      "close": 97.3,
+      "change_pct": -1.52
+    },
+    {
+      "sid": "8150",
+      "name": "南茂",
+      "foreign": -11541609,
+      "trust": -2000,
+      "close": 95.9,
+      "change_pct": -1.13
+    },
+    {
+      "sid": "8105",
+      "name": "凌巨",
+      "foreign": -11398792,
+      "trust": 0,
+      "close": 21.4,
+      "change_pct": -4.68
     }
   ]
 }
