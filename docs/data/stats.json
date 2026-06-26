@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-25 17:08:13",
+  "updated_at": "2026-06-26 17:08:10",
   "summary": {
-    "total": 302,
-    "filled": 252,
+    "total": 313,
+    "filled": 261,
     "missed": 41,
     "pending": 9,
     "settled1": 204,
@@ -17,8 +17,8 @@
   "by_grade": [
     {
       "grade": "SS",
-      "total": 16,
-      "filled": 14,
+      "total": 17,
+      "filled": 15,
       "missed": 1,
       "pending": 1,
       "settled1": 10,
@@ -33,10 +33,10 @@
     },
     {
       "grade": "S",
-      "total": 105,
-      "filled": 91,
+      "total": 109,
+      "filled": 93,
       "missed": 12,
-      "pending": 2,
+      "pending": 4,
       "settled1": 81,
       "settled2": 79,
       "win1": 32,
@@ -49,10 +49,10 @@
     },
     {
       "grade": "A",
-      "total": 175,
-      "filled": 145,
+      "total": 179,
+      "filled": 151,
       "missed": 24,
-      "pending": 6,
+      "pending": 4,
       "settled1": 112,
       "settled2": 101,
       "win1": 43,
@@ -78,33 +78,49 @@
       "hit_t1": 1,
       "hit_t2": 1,
       "hit_sl": 1
+    },
+    {
+      "grade": "WATCH",
+      "total": 2,
+      "filled": 0,
+      "missed": 0,
+      "pending": 0,
+      "settled1": 0,
+      "settled2": 0,
+      "win1": 0,
+      "win2": 0,
+      "avg_ret1": null,
+      "avg_ret2": null,
+      "hit_t1": 0,
+      "hit_t2": 0,
+      "hit_sl": 0
     }
   ],
   "by_bias": [
     {
       "bias_zone": "底部(<0%)",
-      "total": 4,
+      "total": 5,
       "settled": 4,
       "win": 1,
       "avg_ret": -2.915
     },
     {
       "bias_zone": "理想(0-5%)",
-      "total": 74,
+      "total": 77,
       "settled": 60,
       "win": 31,
       "avg_ret": 1.9431666666666667
     },
     {
       "bias_zone": "略高(5-8%)",
-      "total": 57,
+      "total": 60,
       "settled": 43,
       "win": 22,
       "avg_ret": 1.1827906976744187
     },
     {
       "bias_zone": "過高(>8%)",
-      "total": 167,
+      "total": 171,
       "settled": 97,
       "win": 28,
       "avg_ret": -0.9392783505154639
@@ -113,7 +129,7 @@
   "by_month": [
     {
       "ym": "2026-06",
-      "total": 130,
+      "total": 141,
       "settled": 59,
       "win": 19,
       "avg_ret": -0.6844067796610169
