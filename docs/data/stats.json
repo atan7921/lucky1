@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-01 17:08:26",
+  "updated_at": "2026-07-02 17:08:46",
   "summary": {
-    "total": 328,
-    "filled": 272,
-    "missed": 43,
-    "pending": 11,
+    "total": 336,
+    "filled": 282,
+    "missed": 44,
+    "pending": 8,
     "settled1": 234,
     "win1": 85,
     "avg_ret1": -0.10756410256410256,
@@ -17,10 +17,10 @@
   "by_grade": [
     {
       "grade": "SS",
-      "total": 22,
-      "filled": 18,
+      "total": 24,
+      "filled": 21,
       "missed": 1,
-      "pending": 3,
+      "pending": 2,
       "settled1": 12,
       "settled2": 13,
       "win1": 8,
@@ -33,10 +33,10 @@
     },
     {
       "grade": "S",
-      "total": 114,
-      "filled": 98,
+      "total": 118,
+      "filled": 101,
       "missed": 13,
-      "pending": 3,
+      "pending": 4,
       "settled1": 85,
       "settled2": 86,
       "win1": 32,
@@ -49,10 +49,10 @@
     },
     {
       "grade": "A",
-      "total": 183,
-      "filled": 154,
+      "total": 185,
+      "filled": 158,
       "missed": 25,
-      "pending": 4,
+      "pending": 2,
       "settled1": 136,
       "settled2": 126,
       "win1": 45,
@@ -67,8 +67,8 @@
       "grade": "CHASE",
       "total": 7,
       "filled": 2,
-      "missed": 4,
-      "pending": 1,
+      "missed": 5,
+      "pending": 0,
       "settled1": 1,
       "settled2": 2,
       "win1": 0,
@@ -106,21 +106,21 @@
     },
     {
       "bias_zone": "理想(0-5%)",
-      "total": 85,
+      "total": 90,
       "settled": 64,
       "win": 32,
       "avg_ret": 2.0575
     },
     {
       "bias_zone": "略高(5-8%)",
-      "total": 62,
+      "total": 63,
       "settled": 46,
       "win": 23,
       "avg_ret": 1.056304347826087
     },
     {
       "bias_zone": "過高(>8%)",
-      "total": 176,
+      "total": 178,
       "settled": 120,
       "win": 29,
       "avg_ret": -1.6148333333333333
@@ -129,7 +129,7 @@
   "by_month": [
     {
       "ym": "2026-07",
-      "total": 11,
+      "total": 19,
       "settled": 0,
       "win": 0,
       "avg_ret": null
